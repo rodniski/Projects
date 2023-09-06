@@ -98,12 +98,7 @@
 	.search-form {
 	  margin-bottom: 1em;
 	}
-  
-	.table-container {
-	  max-height: 500px;
-	  overflow-y: auto;
-	}
-  
+   
 	.data-table {
 	  width: 100%;
 	  border-collapse: collapse;
